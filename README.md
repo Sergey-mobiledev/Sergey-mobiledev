@@ -23,7 +23,6 @@ Kotlin, Jetpack Compose, Android SDK, MVVM, Clean Architecture, Coroutines/Flow,
 ### FishSnap
 AI-powered fish identification app with subscription monetization.
 
-- Repo: [FishSnap Repo](https://github.com/Sergey-mobiledev)
 - App Store: [FishSnap](https://apps.apple.com/app/fishsnap/id6757752075)
 
 <img src="./assets/fishsnap-main.png" alt="FishSnap screenshot" width="260" />
@@ -31,20 +30,15 @@ AI-powered fish identification app with subscription monetization.
 ### RockAI
 AI-powered rock identification app with GPT-based analysis.
 
-- Repo: [RockAI Repo](https://github.com/Sergey-mobiledev)
 - App Store: [RockAI](https://apps.apple.com/app/rockai/id6754770668)
 
 <img src="./assets/rockai-main.png" alt="RockAI screenshot" width="260" />
-
-### Dog Breed Scanner
-AI-powered dog breed recognition app.
-
-- Repo: [Dog Breed Scanner Repo](https://github.com/Sergey-mobiledev)
 
 ### Android Games
 
 - **Fruit Party** - slot machine game with full gameplay loop and bonus mechanics.
   - Repo: [Fruit Party Repo](https://github.com/Sergey-mobiledev)
+  - Demo GIF: [View gameplay GIF](./assets/fruit-part-game.gif)
 - **Sky Bet Crash** - arcade crash game with custom physics and progression.
   - Repo: [Sky Bet Crash Repo](https://github.com/Sergey-mobiledev)
 - **Aviator** - crash-style betting game with real-time cash-out mechanics.
