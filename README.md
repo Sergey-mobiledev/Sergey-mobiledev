@@ -38,7 +38,8 @@ AI-powered rock identification app with GPT-based analysis.
 
 - **Fruit Party** - slot machine game with full gameplay loop and bonus mechanics.
   - Repo: [Fruit Party Repo](https://github.com/Sergey-mobiledev)
-  - Demo GIF: [View gameplay GIF](./assets/fruit-part-game.gif)
+  - Demo:
+    <img src="./assets/fruit-part-game.gif" alt="Fruit Party gameplay" width="220" />
 - **Sky Bet Crash** - arcade crash game with custom physics and progression.
   - Repo: [Sky Bet Crash Repo](https://github.com/Sergey-mobiledev)
 - **Aviator** - crash-style betting game with real-time cash-out mechanics.
