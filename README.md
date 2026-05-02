@@ -45,7 +45,8 @@ These repositories are being prepared as portfolio projects with screenshots, ar
       <br clear="left" />
     </td>
   </tr>
-  <br />
+  </table>
+  <table cellpadding="20" cellspacing="20">
 
   <tr>
     <td width="50%" valign="top">
