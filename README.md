@@ -79,7 +79,7 @@ These repositories are being prepared as portfolio projects with screenshots, ar
 
 ### Fruit Party
 
-<img src="./assets/fruit-party.jpg" alt="Fruit Party screenshot" width="100%" />
+<img src="./assets/fruit-party.jpg" alt="Fruit Party screenshot" height="220" />
 
 Slot-style Android game with a complete gameplay loop: reels, configurable bet lines, win calculation, bonus mini-game, user profile, and data sync.
 
