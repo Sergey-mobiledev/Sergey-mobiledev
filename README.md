@@ -26,68 +26,60 @@ My main focus is Android development with Kotlin, Jetpack Compose, MVVM/Clean Ar
 
 These repositories are being prepared as portfolio projects with screenshots, architecture notes, implementation details, and demo media.
 
-### Sustain Step
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="./assets/sustan-step.jpg" alt="Sustain Step screenshot" width="120" align="left" />
+      <h3>Sustain Step</h3>
+      <p>Fitness and step tracking app with background monitoring, daily goals, history, statistics, and music playback controls.</p>
+      <p><strong>Stack:</strong> Kotlin, MVVM, Coroutines/Flow, Room, Services, MediaSession</p>
+      <p><a href="https://github.com/Sergey-mobiledev/sustain-step">Repository</a></p>
+      <br clear="left" />
+    </td>
+    <td width="50%" valign="top">
+      <img src="./assets/fall-control.jpg" alt="FallControl screenshot" width="120" align="left" />
+      <h3>FallControl</h3>
+      <p>Real-time fall detection app combining accelerometer and microphone events while monitoring runs in the background.</p>
+      <p><strong>Stack:</strong> Kotlin, MVVM, Coroutines/Flow, Room, Sensors, Foreground Service</p>
+      <p><a href="https://github.com/Sergey-mobiledev/fall-control">Repository</a></p>
+      <br clear="left" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="./assets/sky-bet-crash.jpg" alt="Sky Bet Crash screenshot" width="120" align="left" />
+      <h3>Sky Bet Crash</h3>
+      <p>Arcade crash game with plane movement logic, obstacle avoidance, collision detection, levels, and saved progress.</p>
+      <p><strong>Stack:</strong> Kotlin, Android SDK, custom game logic, local persistence</p>
+      <p><a href="https://github.com/Sergey-mobiledev/sky-bet-crash">Repository</a></p>
+      <br clear="left" />
+    </td>
+    <td width="50%" valign="top">
+      <img src="./assets/aviator-slots.jpg" alt="Aviator Slots screenshot" width="120" align="left" />
+      <h3>Aviator Slots</h3>
+      <p>Crash-style game prototype with betting flow, rising multiplier, round mechanics, cash-out behavior, and balance management.</p>
+      <p><strong>Stack:</strong> Kotlin, Android SDK, MVVM, local persistence</p>
+      <p><a href="https://github.com/Sergey-mobiledev/aviator-slots">Repository</a></p>
+      <br clear="left" />
+    </td>
+  </tr>
+</table>
 
-<img src="./assets/sustan-step.jpg" alt="Sustain Step screenshot" width="200" />
-
-Production-style fitness and step tracking app with background step monitoring, daily goals, history, statistics, and music playback controls.
-
-**Highlights:** Foreground Service, reboot recovery, goal notifications, Room history, MediaSession, MediaStore, collapsing headers.
-
-**Stack:** Kotlin, Android SDK, MVVM, Coroutines/Flow, Room, Services, MediaSession
-
-[Repository](https://github.com/Sergey-mobiledev/sustain-step)
-
-### FallControl
-
-<img src="./assets/fall-control.jpg" alt="FallControl screenshot" width="200" />
-
-Real-time fall detection app that combines accelerometer and microphone events to detect emergency situations while monitoring runs in the background.
-
-**Highlights:** sensor stream synchronization, Foreground Service, timer logic, notifications, reboot recovery, Room state restore.
-
-**Stack:** Kotlin, Android SDK, MVVM, Coroutines/Flow, Room, Sensors, Services
-
-[Repository](https://github.com/Sergey-mobiledev/fall-control)
-
-### Sky Bet Crash
-
-<img src="./assets/sky-bet-crash.jpg" alt="Sky Bet Crash screenshot" width="200" />
-
-Arcade crash game where the player controls a plane, avoids obstacles, progresses through levels, and keeps persistent game progress.
-
-**Highlights:** movement logic, collision detection, level behavior, navigation, progress persistence.
-
-**Stack:** Kotlin, Android SDK, custom game logic, local persistence
-
-[Repository](https://github.com/Sergey-mobiledev/sky-bet-crash)
-
-### Aviator Slots
-
-<img src="./assets/aviator-slots.jpg" alt="Aviator Slots screenshot" width="200" />
-
-Crash-style game prototype with betting flow, rising multiplier, round mechanics, cash-out behavior, and player balance management.
-
-**Highlights:** real-time round state, multiplier calculation, betting logic, balance updates, predictable UI state.
-
-**Stack:** Kotlin, Android SDK, MVVM, local persistence
-
-[Repository](https://github.com/Sergey-mobiledev/aviator-slots)
-
-### Fruit Party
-
-<img src="./assets/fruit-party.jpg" alt="Fruit Party screenshot" height="220" />
-
-Slot-style Android game with a complete gameplay loop:<br>
-reels, configurable bet lines, win calculation,<br>
-bonus mini-game, user profile, and data sync.
-
-**Highlights:** game state management, configurable rules,<br>
-local persistence, remote sync, reusable UI components.
-
-**Stack:** Kotlin, Android SDK, MVVM, Room, Retrofit, Firebase
-
-[Repository](https://github.com/Sergey-mobiledev/fruit-party)
+<table>
+  <tr>
+    <td valign="top">
+      <img src="./assets/fruit-party.jpg" alt="Fruit Party screenshot" height="220" />
+      <h3>Fruit Party</h3>
+      <p>Slot-style Android game with a complete gameplay loop:<br>
+      reels, configurable bet lines, win calculation,<br>
+      bonus mini-game, user profile, and data sync.</p>
+      <p><strong>Highlights:</strong> game state management, configurable rules,<br>
+      local persistence, remote sync, reusable UI components.</p>
+      <p><strong>Stack:</strong> Kotlin, Android SDK, MVVM, Room, Retrofit, Firebase</p>
+      <p><a href="https://github.com/Sergey-mobiledev/fruit-party">Repository</a></p>
+    </td>
+  </tr>
+</table>
 
 ## Published React Native Work
 
