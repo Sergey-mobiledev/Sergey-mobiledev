@@ -26,9 +26,10 @@ My main focus is Android development with Kotlin, Jetpack Compose, MVVM/Clean Ar
 
 These repositories are being prepared as portfolio projects with screenshots, architecture notes, implementation details, and demo media.
 
-<table cellpadding="20" cellspacing="20">
+<table >
+<table cellpadding="0" cellspacing="0">
   <tr>
-    <td width="50%" valign="top">
+    <td style="padding: 20px;"  width="50%" valign="top">
       <img src="./assets/sustan-step.jpg" alt="Sustain Step screenshot" width="200" align="left" hspace="12" vspace="8" />
       <h3>Sustain Step</h3>
       <p>Fitness and step tracking app with background monitoring, daily goals, history, statistics, and music playback controls.</p>
@@ -45,6 +46,8 @@ These repositories are being prepared as portfolio projects with screenshots, ar
       <br clear="left" />
     </td>
   </tr>
+  <table/>
+  <table cellpadding="0" cellspacing="0">
   <tr>
     <td width="50%" valign="top">
       <img src="./assets/sky-bet-crash.jpg" alt="Sky Bet Crash screenshot" width="200" align="left" hspace="12" vspace="8" />
@@ -64,8 +67,7 @@ These repositories are being prepared as portfolio projects with screenshots, ar
     </td>
   </tr>
 </table>
-
-<br />
+</table>
 
 <table cellpadding="16">
   <tr>
