@@ -113,4 +113,5 @@ AI-powered rock identification app with GPT-based analysis and subscription mone
 
 - Email: [sergeykosarevskiy@gmail.com](mailto:sergeykosarevskiy@gmail.com)
 - GitHub: [Sergey-mobiledev](https://github.com/Sergey-mobiledev)
-- LinkedIn: Add your LinkedIn profile URL here
+- LinkedIn: [sergey-kosarevskiy](https://www.linkedin.com/in/sergey-kosarevskiy-214942229/)
+- Telegram: [@sergey_mobiledev](https://t.me/sergey_mobiledev)
