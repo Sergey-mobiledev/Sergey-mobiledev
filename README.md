@@ -29,7 +29,7 @@ These repositories are being prepared as portfolio projects with screenshots, ar
 <table cellpadding="16" cellspacing="12">
   <tr>
     <td width="50%" valign="top">
-      <img src="./assets/sustan-step.jpg" alt="Sustain Step screenshot" width="200" align="left" hspace="20" vspace="20" />
+      <img src="./assets/sustan-step.jpg" alt="Sustain Step screenshot" width="200" align="left" hspace="20" vspace="0" />
       <h3>Sustain Step</h3>
       <p>Fitness and step tracking app with background monitoring, daily goals, history, statistics, and music playback controls.</p>
       <p><strong>Stack:</strong> Kotlin, MVVM, Coroutines/Flow, Room, Services, MediaSession</p>
