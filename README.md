@@ -26,19 +26,19 @@ My main focus is Android development with Kotlin, Jetpack Compose, MVVM/Clean Ar
 
 These repositories are being prepared as portfolio projects with screenshots, architecture notes, implementation details, and demo media.
 
-<table >
-<table cellpadding="0" cellspacing="0">
+<table cellpadding="16" cellspacing="0">
   <tr>
-    <td width="50%" valign="top">
-      <img src="./assets/sustan-step.jpg" alt="Sustain Step screenshot" width="200" align="left" hspace="0" vspace="0" />
+    <td valign="top">
+      <img src="./assets/sustan-step.jpg" alt="Sustain Step screenshot" width="200" align="left" hspace="12" vspace="8" />
       <h3>Sustain Step</h3>
       <p>Fitness and step tracking app with background monitoring, daily goals, history, statistics, and music playback controls.</p>
       <p><strong>Stack:</strong> Kotlin, MVVM, Coroutines/Flow, Room, Services, MediaSession</p>
       <p><a href="https://github.com/Sergey-mobiledev/sustain-step">Repository</a></p>
       <br clear="left" />
     </td>
-    <td width="50%" valign="top">
-      <img src="./assets/fall-control.jpg" alt="FallControl screenshot" width="200" align="left" hspace="0" vspace="0" />
+    <td width="24">&nbsp;</td>
+    <td valign="top">
+      <img src="./assets/fall-control.jpg" alt="FallControl screenshot" width="200" align="left" hspace="12" vspace="8" />
       <h3>FallControl</h3>
       <p>Real-time fall detection app combining accelerometer and microphone events while monitoring runs in the background.</p>
       <p><strong>Stack:</strong> Kotlin, MVVM, Coroutines/Flow, Room, Sensors, Foreground Service</p>
@@ -46,10 +46,8 @@ These repositories are being prepared as portfolio projects with screenshots, ar
       <br clear="left" />
     </td>
   </tr>
-  <table/>
-  <table cellpadding="0" cellspacing="0">
   <tr>
-    <td width="50%" valign="top">
+    <td valign="top">
       <img src="./assets/sky-bet-crash.jpg" alt="Sky Bet Crash screenshot" width="200" align="left" hspace="12" vspace="8" />
       <h3>Sky Bet Crash</h3>
       <p>Arcade crash game with plane movement logic, obstacle avoidance, collision detection, levels, and saved progress.</p>
@@ -57,7 +55,8 @@ These repositories are being prepared as portfolio projects with screenshots, ar
       <p><a href="https://github.com/Sergey-mobiledev/sky-bet-crash">Repository</a></p>
       <br clear="left" />
     </td>
-    <td width="50%" valign="top">
+    <td width="24">&nbsp;</td>
+    <td valign="top">
       <img src="./assets/aviator-slots.jpg" alt="Aviator Slots screenshot" width="200" align="left" hspace="12" vspace="8" />
       <h3>Aviator Slots</h3>
       <p>Crash-style game prototype with betting flow, rising multiplier, round mechanics, cash-out behavior, and balance management.</p>
@@ -67,7 +66,8 @@ These repositories are being prepared as portfolio projects with screenshots, ar
     </td>
   </tr>
 </table>
-</table>
+
+<br />
 
 <table cellpadding="16">
   <tr>
