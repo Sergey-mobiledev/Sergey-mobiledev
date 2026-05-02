@@ -31,7 +31,7 @@ These repositories are being prepared as portfolio projects with screenshots, ar
     <td width="220" valign="top">
       <img src="./assets/sustan-step.jpg" alt="Sustain Step screenshot" width="200" />
     </td>
-    <td valign="top">
+    <td valign="top" width="420">
       <h3>Sustain Step</h3>
       <p>Production-style fitness and step tracking app with background step monitoring, daily goals, history, statistics, and music playback controls.</p>
       <p><strong>Highlights:</strong> Foreground Service, reboot recovery, goal notifications, Room history, MediaSession, MediaStore, collapsing headers.</p>
@@ -43,7 +43,7 @@ These repositories are being prepared as portfolio projects with screenshots, ar
     <td width="220" valign="top">
       <img src="./assets/fall-control.jpg" alt="FallControl screenshot" width="200" />
     </td>
-    <td valign="top">
+    <td valign="top" width="420">
       <h3>FallControl</h3>
       <p>Real-time fall detection app that combines accelerometer and microphone events to detect emergency situations while monitoring runs in the background.</p>
       <p><strong>Highlights:</strong> sensor stream synchronization, Foreground Service, timer logic, notifications, reboot recovery, Room state restore.</p>
@@ -55,7 +55,7 @@ These repositories are being prepared as portfolio projects with screenshots, ar
     <td width="220" valign="top">
       <img src="./assets/sky-bet-crash.jpg" alt="Sky Bet Crash screenshot" width="200" />
     </td>
-    <td valign="top">
+    <td valign="top" width="420">
       <h3>Sky Bet Crash</h3>
       <p>Arcade crash game where the player controls a plane, avoids obstacles, progresses through levels, and keeps persistent game progress.</p>
       <p><strong>Highlights:</strong> movement logic, collision detection, level behavior, navigation, progress persistence.</p>
@@ -67,7 +67,7 @@ These repositories are being prepared as portfolio projects with screenshots, ar
     <td width="220" valign="top">
       <img src="./assets/aviator-slots.jpg" alt="Aviator Slots screenshot" width="200" />
     </td>
-    <td valign="top">
+    <td valign="top" width="420">
       <h3>Aviator Slots</h3>
       <p>Crash-style game prototype with betting flow, rising multiplier, round mechanics, cash-out behavior, and player balance management.</p>
       <p><strong>Highlights:</strong> real-time round state, multiplier calculation, betting logic, balance updates, predictable UI state.</p>
