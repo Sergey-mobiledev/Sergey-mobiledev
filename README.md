@@ -68,7 +68,7 @@ These repositories are being prepared as portfolio projects with screenshots, ar
 <table>
   <tr>
     <td valign="top">
-      <img src="./assets/fruit-party.jpg" alt="Fruit Party screenshot" height="220" />
+      <img src="./assets/fruit-party.jpg" alt="Fruit Party screenshot" height="200" />
       <h3>Fruit Party</h3>
       <p>Slot-style Android game with a complete gameplay loop:<br>
       reels, configurable bet lines, win calculation,<br>
