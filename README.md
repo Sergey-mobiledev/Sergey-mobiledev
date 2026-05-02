@@ -26,10 +26,10 @@ My main focus is Android development with Kotlin, Jetpack Compose, MVVM/Clean Ar
 
 These repositories are being prepared as portfolio projects with screenshots, architecture notes, implementation details, and demo media.
 
-<table>
+<table cellpadding="16" cellspacing="12">
   <tr>
     <td width="50%" valign="top">
-      <img src="./assets/sustan-step.jpg" alt="Sustain Step screenshot" width="200" align="left" />
+      <img src="./assets/sustan-step.jpg" alt="Sustain Step screenshot" width="200" align="left" hspace="12" vspace="4" />
       <h3>Sustain Step</h3>
       <p>Fitness and step tracking app with background monitoring, daily goals, history, statistics, and music playback controls.</p>
       <p><strong>Stack:</strong> Kotlin, MVVM, Coroutines/Flow, Room, Services, MediaSession</p>
@@ -37,7 +37,7 @@ These repositories are being prepared as portfolio projects with screenshots, ar
       <br clear="left" />
     </td>
     <td width="50%" valign="top">
-      <img src="./assets/fall-control.jpg" alt="FallControl screenshot" width="200" align="left" />
+      <img src="./assets/fall-control.jpg" alt="FallControl screenshot" width="200" align="left" hspace="12" vspace="4" />
       <h3>FallControl</h3>
       <p>Real-time fall detection app combining accelerometer and microphone events while monitoring runs in the background.</p>
       <p><strong>Stack:</strong> Kotlin, MVVM, Coroutines/Flow, Room, Sensors, Foreground Service</p>
@@ -47,7 +47,7 @@ These repositories are being prepared as portfolio projects with screenshots, ar
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <img src="./assets/sky-bet-crash.jpg" alt="Sky Bet Crash screenshot" width="200" align="left" />
+      <img src="./assets/sky-bet-crash.jpg" alt="Sky Bet Crash screenshot" width="200" align="left" hspace="12" vspace="4" />
       <h3>Sky Bet Crash</h3>
       <p>Arcade crash game with plane movement logic, obstacle avoidance, collision detection, levels, and saved progress.</p>
       <p><strong>Stack:</strong> Kotlin, Android SDK, custom game logic, local persistence</p>
@@ -55,7 +55,7 @@ These repositories are being prepared as portfolio projects with screenshots, ar
       <br clear="left" />
     </td>
     <td width="50%" valign="top">
-      <img src="./assets/aviator-slots.jpg" alt="Aviator Slots screenshot" width="200" align="left" />
+      <img src="./assets/aviator-slots.jpg" alt="Aviator Slots screenshot" width="200" align="left" hspace="12" vspace="4" />
       <h3>Aviator Slots</h3>
       <p>Crash-style game prototype with betting flow, rising multiplier, round mechanics, cash-out behavior, and balance management.</p>
       <p><strong>Stack:</strong> Kotlin, Android SDK, MVVM, local persistence</p>
@@ -65,7 +65,7 @@ These repositories are being prepared as portfolio projects with screenshots, ar
   </tr>
 </table>
 
-<table>
+<table cellpadding="16">
   <tr>
     <td valign="top">
       <img src="./assets/fruit-party.jpg" alt="Fruit Party screenshot" height="200" />
