@@ -29,7 +29,7 @@ These repositories are being prepared as portfolio projects with screenshots, ar
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img src="./assets/sustan-step.jpg" alt="Sustain Step screenshot" width="120" align="left" />
+      <img src="./assets/sustan-step.jpg" alt="Sustain Step screenshot" width="200" align="left" />
       <h3>Sustain Step</h3>
       <p>Fitness and step tracking app with background monitoring, daily goals, history, statistics, and music playback controls.</p>
       <p><strong>Stack:</strong> Kotlin, MVVM, Coroutines/Flow, Room, Services, MediaSession</p>
@@ -37,7 +37,7 @@ These repositories are being prepared as portfolio projects with screenshots, ar
       <br clear="left" />
     </td>
     <td width="50%" valign="top">
-      <img src="./assets/fall-control.jpg" alt="FallControl screenshot" width="120" align="left" />
+      <img src="./assets/fall-control.jpg" alt="FallControl screenshot" width="200" align="left" />
       <h3>FallControl</h3>
       <p>Real-time fall detection app combining accelerometer and microphone events while monitoring runs in the background.</p>
       <p><strong>Stack:</strong> Kotlin, MVVM, Coroutines/Flow, Room, Sensors, Foreground Service</p>
