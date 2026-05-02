@@ -29,70 +29,38 @@ These repositories are being prepared as portfolio projects with screenshots, ar
 <table cellpadding="20" cellspacing="20">
   <tr>
     <td width="50%" valign="top">
-      <table width="100%" cellpadding="0" cellspacing="0">
-        <tr><td colspan="3" height="20"></td></tr>
-        <tr>
-          <td valign="top" width="200"><img src="./assets/sustan-step.jpg" alt="Sustain Step screenshot" width="200" /></td>
-          <td valign="top">
-            <h3>Sustain Step</h3>
-            <p>Fitness and step tracking app with background monitoring, daily goals, history, statistics, and music playback controls.</p>
-            <p><strong>Stack:</strong> Kotlin, MVVM, Coroutines/Flow, Room, Services, MediaSession</p>
-            <p><a href="https://github.com/Sergey-mobiledev/sustain-step">Repository</a></p>
-          </td>
-          <td width="20"></td>
-        </tr>
-        <tr><td colspan="3" height="20"></td></tr>
-      </table>
+      <img src="./assets/sustan-step.jpg" alt="Sustain Step screenshot" width="200" align="left" hspace="12" vspace="8" />
+      <h3>Sustain Step</h3>
+      <p>Fitness and step tracking app with background monitoring, daily goals, history, statistics, and music playback controls.</p>
+      <p><strong>Stack:</strong> Kotlin, MVVM, Coroutines/Flow, Room, Services, MediaSession</p>
+      <p><a href="https://github.com/Sergey-mobiledev/sustain-step">Repository</a></p>
+      <br clear="left" />
     </td>
     <td width="50%" valign="top">
-      <table width="100%" cellpadding="0" cellspacing="0">
-        <tr><td colspan="3" height="20"></td></tr>
-        <tr>
-          <td valign="top" width="200"><img src="./assets/fall-control.jpg" alt="FallControl screenshot" width="200" /></td>
-          <td valign="top">
-            <h3>FallControl</h3>
-            <p>Real-time fall detection app combining accelerometer and microphone events while monitoring runs in the background.</p>
-            <p><strong>Stack:</strong> Kotlin, MVVM, Coroutines/Flow, Room, Sensors, Foreground Service</p>
-            <p><a href="https://github.com/Sergey-mobiledev/fall-control">Repository</a></p>
-          </td>
-          <td width="20"></td>
-        </tr>
-        <tr><td colspan="3" height="20"></td></tr>
-      </table>
+      <img src="./assets/fall-control.jpg" alt="FallControl screenshot" width="200" align="left" hspace="12" vspace="8" />
+      <h3>FallControl</h3>
+      <p>Real-time fall detection app combining accelerometer and microphone events while monitoring runs in the background.</p>
+      <p><strong>Stack:</strong> Kotlin, MVVM, Coroutines/Flow, Room, Sensors, Foreground Service</p>
+      <p><a href="https://github.com/Sergey-mobiledev/fall-control">Repository</a></p>
+      <br clear="left" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <table width="100%" cellpadding="0" cellspacing="0">
-        <tr><td colspan="3" height="20"></td></tr>
-        <tr>
-          <td valign="top" width="200"><img src="./assets/sky-bet-crash.jpg" alt="Sky Bet Crash screenshot" width="200" /></td>
-          <td valign="top">
-            <h3>Sky Bet Crash</h3>
-            <p>Arcade crash game with plane movement logic, obstacle avoidance, collision detection, levels, and saved progress.</p>
-            <p><strong>Stack:</strong> Kotlin, Android SDK, custom game logic, local persistence</p>
-            <p><a href="https://github.com/Sergey-mobiledev/sky-bet-crash">Repository</a></p>
-          </td>
-          <td width="20"></td>
-        </tr>
-        <tr><td colspan="3" height="20"></td></tr>
-      </table>
+      <img src="./assets/sky-bet-crash.jpg" alt="Sky Bet Crash screenshot" width="200" align="left" hspace="12" vspace="8" />
+      <h3>Sky Bet Crash</h3>
+      <p>Arcade crash game with plane movement logic, obstacle avoidance, collision detection, levels, and saved progress.</p>
+      <p><strong>Stack:</strong> Kotlin, Android SDK, custom game logic, local persistence</p>
+      <p><a href="https://github.com/Sergey-mobiledev/sky-bet-crash">Repository</a></p>
+      <br clear="left" />
     </td>
     <td width="50%" valign="top">
-      <table width="100%" cellpadding="0" cellspacing="0">
-        <tr><td colspan="3" height="20"></td></tr>
-        <tr>
-          <td valign="top" width="200"><img src="./assets/aviator-slots.jpg" alt="Aviator Slots screenshot" width="200" /></td>
-          <td valign="top">
-            <h3>Aviator Slots</h3>
-            <p>Crash-style game prototype with betting flow, rising multiplier, round mechanics, cash-out behavior, and balance management.</p>
-            <p><strong>Stack:</strong> Kotlin, Android SDK, MVVM, local persistence</p>
-            <p><a href="https://github.com/Sergey-mobiledev/aviator-slots">Repository</a></p>
-          </td>
-          <td width="20"></td>
-        </tr>
-        <tr><td colspan="3" height="20"></td></tr>
-      </table>
+      <img src="./assets/aviator-slots.jpg" alt="Aviator Slots screenshot" width="200" align="left" hspace="12" vspace="8" />
+      <h3>Aviator Slots</h3>
+      <p>Crash-style game prototype with betting flow, rising multiplier, round mechanics, cash-out behavior, and balance management.</p>
+      <p><strong>Stack:</strong> Kotlin, Android SDK, MVVM, local persistence</p>
+      <p><a href="https://github.com/Sergey-mobiledev/aviator-slots">Repository</a></p>
+      <br clear="left" />
     </td>
   </tr>
 </table>
@@ -102,25 +70,15 @@ These repositories are being prepared as portfolio projects with screenshots, ar
 <table cellpadding="16">
   <tr>
     <td valign="top">
-      <table width="100%" cellpadding="0" cellspacing="0">
-        <tr><td colspan="2" height="20"></td></tr>
-        <tr><td colspan="2"><img src="./assets/fruit-party.jpg" alt="Fruit Party screenshot" height="200" /></td></tr>
-        <tr><td colspan="2" height="20"></td></tr>
-        <tr>
-          <td valign="top">
-            <h3>Fruit Party</h3>
-            <p>Slot-style Android game with a complete gameplay loop:<br>
-            reels, configurable bet lines, win calculation,<br>
-            bonus mini-game, user profile, and data sync.</p>
-            <p><strong>Highlights:</strong> game state management, configurable rules,<br>
-            local persistence, remote sync, reusable UI components.</p>
-            <p><strong>Stack:</strong> Kotlin, Android SDK, MVVM, Room, Retrofit, Firebase</p>
-            <p><a href="https://github.com/Sergey-mobiledev/fruit-party">Repository</a></p>
-          </td>
-          <td width="20"></td>
-        </tr>
-        <tr><td colspan="2" height="20"></td></tr>
-      </table>
+      <img src="./assets/fruit-party.jpg" alt="Fruit Party screenshot" height="200" />
+      <h3>Fruit Party</h3>
+      <p>Slot-style Android game with a complete gameplay loop:<br>
+      reels, configurable bet lines, win calculation,<br>
+      bonus mini-game, user profile, and data sync.</p>
+      <p><strong>Highlights:</strong> game state management, configurable rules,<br>
+      local persistence, remote sync, reusable UI components.</p>
+      <p><strong>Stack:</strong> Kotlin, Android SDK, MVVM, Room, Retrofit, Firebase</p>
+      <p><a href="https://github.com/Sergey-mobiledev/fruit-party">Repository</a></p>
     </td>
   </tr>
 </table>
