@@ -47,7 +47,7 @@ These repositories are being prepared as portfolio projects with screenshots, ar
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <img src="./assets/sky-bet-crash.jpg" alt="Sky Bet Crash screenshot" width="120" align="left" />
+      <img src="./assets/sky-bet-crash.jpg" alt="Sky Bet Crash screenshot" width="200" align="left" />
       <h3>Sky Bet Crash</h3>
       <p>Arcade crash game with plane movement logic, obstacle avoidance, collision detection, levels, and saved progress.</p>
       <p><strong>Stack:</strong> Kotlin, Android SDK, custom game logic, local persistence</p>
@@ -55,7 +55,7 @@ These repositories are being prepared as portfolio projects with screenshots, ar
       <br clear="left" />
     </td>
     <td width="50%" valign="top">
-      <img src="./assets/aviator-slots.jpg" alt="Aviator Slots screenshot" width="120" align="left" />
+      <img src="./assets/aviator-slots.jpg" alt="Aviator Slots screenshot" width="200" align="left" />
       <h3>Aviator Slots</h3>
       <p>Crash-style game prototype with betting flow, rising multiplier, round mechanics, cash-out behavior, and balance management.</p>
       <p><strong>Stack:</strong> Kotlin, Android SDK, MVVM, local persistence</p>
