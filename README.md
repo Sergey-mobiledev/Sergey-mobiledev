@@ -1,30 +1,42 @@
-# Hi, I'm Sergey Kosarevskiy 👋
+# Sergey Kosarevskiy
 
-Android / React Native Developer
+**Middle Android Developer | Kotlin | Jetpack Compose | Clean Architecture**
 
-## About Me
+Android-first mobile developer with **3.5+ years of commercial experience** building production apps from scratch: utilities, lifestyle apps, sensor-based tools, and lightweight games. I also have React Native experience with AI-powered subscription apps published on the App Store.
 
-- 3.5+ years of commercial Android development experience
-- 50+ production apps delivered (games, utilities, lifestyle apps)
-- Strong stack: Kotlin, Jetpack Compose, Clean Architecture, MVVM, Coroutines
-- Passionate about modern mobile development and AI-assisted workflows
-- 6 months of React Native experience with subscription and AI-powered apps
+My main focus is Android development with Kotlin, Jetpack Compose, MVVM/Clean Architecture, Coroutines/Flow, Room, Firebase, background services, sensors, and polished mobile UX.
+
+## What I Build
+
+- Android apps with clear architecture, readable code, and maintainable feature structure
+- Background features: Foreground Services, reboot recovery, notifications, timers, MediaSession
+- Sensor-based apps using accelerometer, microphone, step counter, and device state
+- Game mechanics: reels, betting rounds, collision logic, progression, persistence
+- AI and subscription flows from React Native experience: GPT API, RevenueCat, AppsFlyer, Firebase Remote Config, A/B testing
 
 ## Tech Stack
 
-Kotlin, Jetpack Compose, Android SDK, MVVM, Clean Architecture, Coroutines/Flow, Room, Firebase, React Native, TypeScript, RevenueCat, AppsFlyer, REST APIs, Git
+**Android:** Kotlin, Jetpack Compose, Android SDK, MVVM, Clean Architecture, Coroutines, Flow, Room, Retrofit, Firebase, Services, Sensors, MediaSession
 
-## Featured Projects
+**React Native:** React Native, TypeScript, GPT API, RevenueCat, AppsFlyer, Firebase Remote Config
+
+**Tools:** Git, GitHub, Android Studio, Gradle, Cursor AI
+
+## Featured Android Projects
+
+These repositories are being prepared as portfolio projects with screenshots, architecture notes, implementation details, and demo media.
 
 <table>
   <tr>
     <td width="220">
-      <img src="./assets/sustan-step.jpg" alt="Sustain Step screenshot" width="200" />
+      <img src="./assets/sustain-step.jpg" alt="Sustain Step screenshot" width="200" />
     </td>
     <td>
       <h3>Sustain Step</h3>
-      <p>Lifestyle app with step monitoring, daily goal notifications, step history, and MediaSession music controls.</p>
-      <p><a href="https://github.com/Sergey-mobiledev">Repository</a></p>
+      <p>Production-style fitness and step tracking app with background step monitoring, daily goals, history, statistics, and music playback controls.</p>
+      <p><strong>Highlights:</strong> Foreground Service, reboot recovery, goal notifications, Room history, MediaSession, MediaStore, collapsing headers.</p>
+      <p><strong>Stack:</strong> Kotlin, Android SDK, MVVM, Coroutines/Flow, Room, Services, MediaSession</p>
+      <p><a href="https://github.com/Sergey-mobiledev/sustain-step">Repository</a></p>
     </td>
   </tr>
   <tr>
@@ -33,8 +45,10 @@ Kotlin, Jetpack Compose, Android SDK, MVVM, Clean Architecture, Coroutines/Flow,
     </td>
     <td>
       <h3>FallControl</h3>
-      <p>Real-time fall detection app that combines accelerometer and microphone events inside a Foreground Service.</p>
-      <p><a href="https://github.com/Sergey-mobiledev">Repository</a></p>
+      <p>Real-time fall detection app that combines accelerometer and microphone events to detect emergency situations while monitoring runs in the background.</p>
+      <p><strong>Highlights:</strong> sensor stream synchronization, Foreground Service, timer logic, notifications, reboot recovery, Room state restore.</p>
+      <p><strong>Stack:</strong> Kotlin, Android SDK, MVVM, Coroutines/Flow, Room, Sensors, Services</p>
+      <p><a href="https://github.com/Sergey-mobiledev/fall-control">Repository</a></p>
     </td>
   </tr>
   <tr>
@@ -43,8 +57,10 @@ Kotlin, Jetpack Compose, Android SDK, MVVM, Clean Architecture, Coroutines/Flow,
     </td>
     <td>
       <h3>Fruit Party</h3>
-      <p>Slot machine game with reels, configurable bet lines, win calculation, bonus mini-game, and local/remote data sync.</p>
-      <p><a href="https://github.com/Sergey-mobiledev">Repository</a></p>
+      <p>Slot-style Android game with a complete gameplay loop: reels, configurable bet lines, win calculation, bonus mini-game, user profile, and data sync.</p>
+      <p><strong>Highlights:</strong> game state management, configurable rules, local persistence, remote sync, reusable UI components.</p>
+      <p><strong>Stack:</strong> Kotlin, Android SDK, MVVM, Room, Retrofit, Firebase</p>
+      <p><a href="https://github.com/Sergey-mobiledev/fruit-party">Repository</a></p>
     </td>
   </tr>
   <tr>
@@ -53,8 +69,10 @@ Kotlin, Jetpack Compose, Android SDK, MVVM, Clean Architecture, Coroutines/Flow,
     </td>
     <td>
       <h3>Sky Bet Crash</h3>
-      <p>Arcade crash game with plane movement logic, collision detection, level behavior, and progress persistence.</p>
-      <p><a href="https://github.com/Sergey-mobiledev">Repository</a></p>
+      <p>Arcade crash game where the player controls a plane, avoids obstacles, progresses through levels, and keeps persistent game progress.</p>
+      <p><strong>Highlights:</strong> movement logic, collision detection, level behavior, navigation, progress persistence.</p>
+      <p><strong>Stack:</strong> Kotlin, Android SDK, custom game logic, local persistence</p>
+      <p><a href="https://github.com/Sergey-mobiledev/sky-bet-crash">Repository</a></p>
     </td>
   </tr>
   <tr>
@@ -63,24 +81,36 @@ Kotlin, Jetpack Compose, Android SDK, MVVM, Clean Architecture, Coroutines/Flow,
     </td>
     <td>
       <h3>Aviator Slots</h3>
-      <p>Crash-style game experience with betting flow, round mechanics, multiplier logic, and player balance management.</p>
-      <p><a href="https://github.com/Sergey-mobiledev">Repository</a></p>
+      <p>Crash-style game prototype with betting flow, rising multiplier, round mechanics, cash-out behavior, and player balance management.</p>
+      <p><strong>Highlights:</strong> real-time round state, multiplier calculation, betting logic, balance updates, predictable UI state.</p>
+      <p><strong>Stack:</strong> Kotlin, Android SDK, MVVM, local persistence</p>
+      <p><a href="https://github.com/Sergey-mobiledev/aviator-slots">Repository</a></p>
     </td>
   </tr>
 </table>
 
+## Published React Native Work
+
+Commercial source code is private, but these apps show my experience with production mobile flows outside Android native development.
+
 ### FishSnap
+
 AI-powered fish identification app with subscription monetization.
 
 - App Store: [FishSnap](https://apps.apple.com/app/fishsnap/id6757752075)
+- Built with React Native, TypeScript, GPT API, RevenueCat, AppsFlyer, Firebase Remote Config
+- Implemented AI recognition flow, onboarding, paywalls, streaming results, and subscription logic
 
 ### RockAI
-AI-powered rock identification app with GPT-based analysis.
+
+AI-powered rock identification app with GPT-based analysis and subscription monetization.
 
 - App Store: [RockAI](https://apps.apple.com/app/rockai/id6754770668)
+- Built with React Native, TypeScript, GPT API, RevenueCat, AppsFlyer, Firebase Remote Config
+- Worked on AI result generation, configurable monetization flows, onboarding, and app architecture
 
-## Notes
+## Contact
 
-- Detailed architecture and implementation notes are available in each project repository README.
-- Keep profile visuals lightweight: screenshots here, detailed demos inside each project repository.
-- Replace each `Repository` link with the exact project repository URL.
+- Email: [sergeykosarevskiy@gmail.com](mailto:sergeykosarevskiy@gmail.com)
+- GitHub: [Sergey-mobiledev](https://github.com/Sergey-mobiledev)
+- LinkedIn: Add your LinkedIn profile URL here
