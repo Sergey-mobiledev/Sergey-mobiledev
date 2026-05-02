@@ -45,6 +45,8 @@ These repositories are being prepared as portfolio projects with screenshots, ar
       <br clear="left" />
     </td>
   </tr>
+  <br />
+
   <tr>
     <td width="50%" valign="top">
       <img src="./assets/sky-bet-crash.jpg" alt="Sky Bet Crash screenshot" width="200" align="left" hspace="20" vspace="20" />
@@ -64,6 +66,8 @@ These repositories are being prepared as portfolio projects with screenshots, ar
     </td>
   </tr>
 </table>
+
+<br />
 
 <table cellpadding="16">
   <tr>
