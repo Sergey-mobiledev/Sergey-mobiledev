@@ -26,9 +26,9 @@ My main focus is Android development with Kotlin, Jetpack Compose, MVVM/Clean Ar
 
 These repositories are being prepared as portfolio projects with screenshots, architecture notes, implementation details, and demo media.
 
-<table align="left" width="48%" cellpadding="20">
+<table cellpadding="20" cellspacing="20">
   <tr>
-    <td valign="top">
+    <td width="50%" valign="top">
       <img src="./assets/sustan-step.jpg" alt="Sustain Step screenshot" width="200" align="left" hspace="20" vspace="20" />
       <h3>Sustain Step</h3>
       <p>Fitness and step tracking app with background monitoring, daily goals, history, statistics, and music playback controls.</p>
@@ -36,12 +36,7 @@ These repositories are being prepared as portfolio projects with screenshots, ar
       <p><a href="https://github.com/Sergey-mobiledev/sustain-step">Repository</a></p>
       <br clear="left" />
     </td>
-  </tr>
-</table>
-
-<table align="right" width="48%" cellpadding="20">
-  <tr>
-    <td valign="top">
+    <td width="50%" valign="top">
       <img src="./assets/fall-control.jpg" alt="FallControl screenshot" width="200" align="left" hspace="20" vspace="20" />
       <h3>FallControl</h3>
       <p>Real-time fall detection app combining accelerometer and microphone events while monitoring runs in the background.</p>
@@ -50,14 +45,8 @@ These repositories are being prepared as portfolio projects with screenshots, ar
       <br clear="left" />
     </td>
   </tr>
-</table>
-
-<br clear="both" />
-<br />
-
-<table align="left" width="48%" cellpadding="20">
   <tr>
-    <td valign="top">
+    <td width="50%" valign="top">
       <img src="./assets/sky-bet-crash.jpg" alt="Sky Bet Crash screenshot" width="200" align="left" hspace="20" vspace="20" />
       <h3>Sky Bet Crash</h3>
       <p>Arcade crash game with plane movement logic, obstacle avoidance, collision detection, levels, and saved progress.</p>
@@ -65,12 +54,7 @@ These repositories are being prepared as portfolio projects with screenshots, ar
       <p><a href="https://github.com/Sergey-mobiledev/sky-bet-crash">Repository</a></p>
       <br clear="left" />
     </td>
-  </tr>
-</table>
-
-<table align="right" width="48%" cellpadding="20">
-  <tr>
-    <td valign="top">
+    <td width="50%" valign="top">
       <img src="./assets/aviator-slots.jpg" alt="Aviator Slots screenshot" width="200" align="left" hspace="20" vspace="20" />
       <h3>Aviator Slots</h3>
       <p>Crash-style game prototype with betting flow, rising multiplier, round mechanics, cash-out behavior, and balance management.</p>
@@ -80,9 +64,6 @@ These repositories are being prepared as portfolio projects with screenshots, ar
     </td>
   </tr>
 </table>
-
-<br clear="both" />
-<br />
 
 <table cellpadding="16">
   <tr>
