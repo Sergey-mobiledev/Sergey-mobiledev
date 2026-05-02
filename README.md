@@ -36,7 +36,6 @@ These repositories are being prepared as portfolio projects with screenshots, ar
       <p><a href="https://github.com/Sergey-mobiledev/sustain-step">Repository</a></p>
       <br clear="left" />
     </td>
-    <td width="24">&nbsp;</td>
     <td valign="top">
       <img src="./assets/fall-control.jpg" alt="FallControl screenshot" width="200" align="left" hspace="12" vspace="8" />
       <h3>FallControl</h3>
@@ -46,6 +45,9 @@ These repositories are being prepared as portfolio projects with screenshots, ar
       <br clear="left" />
     </td>
   </tr>
+  <table/>
+
+<table cellpadding="16" cellspacing="0">
   <tr>
     <td valign="top">
       <img src="./assets/sky-bet-crash.jpg" alt="Sky Bet Crash screenshot" width="200" align="left" hspace="12" vspace="8" />
@@ -66,8 +68,6 @@ These repositories are being prepared as portfolio projects with screenshots, ar
     </td>
   </tr>
 </table>
-
-<br />
 
 <table cellpadding="16">
   <tr>
