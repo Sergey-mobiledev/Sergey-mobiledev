@@ -72,7 +72,7 @@ These repositories are being prepared as portfolio projects with screenshots, ar
 <table>
   <tr>
     <td valign="top" width="60%">
-      <img src="./assets/fruit-party.jpg" alt="Fruit Party screenshot" width="440" />
+      <img src="./assets/fruit-party.jpg" alt="Fruit Party screenshot" height="200" />
     </td>
     <td valign="top" width="40%">
       <p><strong>Fruit Party</strong></p>
