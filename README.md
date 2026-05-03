@@ -97,12 +97,12 @@ AI-powered fish identification app with subscription monetization.
 - Built with React Native, TypeScript, GPT API, RevenueCat, AppsFlyer, Firebase Remote Config
 - Implemented AI recognition flow, onboarding, paywalls, streaming results, and subscription logic
 
-<table cellpadding="8" cellspacing="8">
+<table cellpadding="20" cellspacing="20">
   <tr>
     <td valign="top" width="33%">
       <img src="./assets/fish-demo-1.gif" alt="FishSnap onboarding" width="200" />
     </td>
-    <td valign="top" width="33%">
+    <td valign="center" width="33%">
       <img src="./assets/fish-home.jpg" alt="FishSnap home" width="200" />
     </td>
     <td valign="top" width="33%">
