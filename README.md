@@ -76,9 +76,8 @@ These repositories are being prepared as portfolio projects with screenshots, ar
       <h3>Fruit Party</h3>
       <p>Slot-style Android game with a complete gameplay loop: reels, configurable bet lines, win calculation, bonus mini-game, user profile, and data sync.</p>
       <p><strong>Highlights:</strong> game state management, configurable rules, local persistence, remote sync, reusable UI components.</p>
-      <p><strong>Stack:</strong> Kotlin, Android SDK, MVVM, Room, Retrofit, Firebase</p>
       <p><a href="https://github.com/Sergey-mobiledev/fruit-party">Repository</a></p>
-      <br clear="left" />
+      <br clear="right" />
     </td>
   </tr>
 </table>
