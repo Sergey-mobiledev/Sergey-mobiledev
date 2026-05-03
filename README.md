@@ -72,15 +72,13 @@ These repositories are being prepared as portfolio projects with screenshots, ar
 <table>
   <tr>
     <td valign="top">
-      <img src="./assets/fruit-party.jpg" alt="Fruit Party screenshot" height="200" />
+      <img src="./assets/fruit-party.jpg" alt="Fruit Party screenshot" height="200" align="left"/>
       <h3>Fruit Party</h3>
-      <p>Slot-style Android game with a complete gameplay loop:<br>
-      reels, configurable bet lines, win calculation,<br>
-      bonus mini-game, user profile, and data sync.</p>
-      <p><strong>Highlights:</strong> game state management, configurable rules,<br>
-      local persistence, remote sync, reusable UI components.</p>
+      <p>Slot-style Android game with a complete gameplay loop: reels, configurable bet lines, win calculation, bonus mini-game, user profile, and data sync.</p>
+      <p><strong>Highlights:</strong> game state management, configurable rules, local persistence, remote sync, reusable UI components.</p>
       <p><strong>Stack:</strong> Kotlin, Android SDK, MVVM, Room, Retrofit, Firebase</p>
       <p><a href="https://github.com/Sergey-mobiledev/fruit-party">Repository</a></p>
+      <br clear="left" />
     </td>
   </tr>
 </table>
@@ -119,7 +117,19 @@ AI-powered rock identification app with GPT-based analysis and subscription mone
 - Built with React Native, TypeScript, GPT API, RevenueCat, AppsFlyer, Firebase Remote Config
 - Worked on AI result generation, configurable monetization flows, onboarding, and app architecture
 
-## Contact
+<table cellpadding="20" cellspacing="20">
+  <tr>
+    <td valign="top" width="33%">
+      <img src="./assets/rock-start.jpg" alt="RockAI start" width="200" />
+    </td>
+    <td valign="top" width="33%">
+      <img src="./assets/rock-paywall.jpg" alt="RockAI paywall" width="200" />
+    </td>
+    <td valign="top" width="33%">
+      <img src="./assets/rock-home.jpg" alt="RockAI analysis history" width="200" />
+    </td>
+  </tr>
+</table>
 
 - Email: [sergeykosarevskiy@gmail.com](mailto:sergeykosarevskiy@gmail.com)
 - GitHub: [Sergey-mobiledev](https://github.com/Sergey-mobiledev)
