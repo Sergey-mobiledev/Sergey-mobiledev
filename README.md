@@ -93,24 +93,23 @@ Commercial source code is private, but these apps show my experience with produc
 
 AI-powered fish identification app with subscription monetization.
 
-<table>
-  <tr>
-    <td valign="top" width="48%">
-      <p><strong>Demo</strong> — paywall with light floating fish animation</p>
-      <img src="./assets/fish-demo.gif" alt="FishSnap paywall animation" width="240" />
-    </td>
-    <td valign="top" width="52%">
-      <p><strong>Home</strong></p>
-      <img src="./assets/fish-home.jpg" alt="FishSnap home screen" width="200" />
-      <p><strong>Paywall</strong></p>
-      <img src="./assets/fish-paywall.jpg" alt="FishSnap paywall screen" width="200" />
-    </td>
-  </tr>
-</table>
-
 - App Store: [FishSnap](https://apps.apple.com/app/fishsnap/id6757752075)
 - Built with React Native, TypeScript, GPT API, RevenueCat, AppsFlyer, Firebase Remote Config
 - Implemented AI recognition flow, onboarding, paywalls, streaming results, and subscription logic
+
+<table cellpadding="8" cellspacing="8">
+  <tr>
+    <td valign="top" width="33%">
+      <img src="./assets/fish-demo-1.gif" alt="FishSnap onboarding" width="200" />
+    </td>
+    <td valign="top" width="33%">
+      <img src="./assets/fish-home.jpg" alt="FishSnap home" width="200" />
+    </td>
+    <td valign="top" width="33%">
+      <img src="./assets/fish-result-demo.gif" alt="FishSnap result" width="200" />
+    </td>
+  </tr>
+</table>
 
 ### RockAI
 
