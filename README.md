@@ -71,10 +71,10 @@ These repositories are being prepared as portfolio projects with screenshots, ar
 
 <table>
   <tr>
-    <td valign="top" width="55%">
+    <td valign="top" width="53%">
       <img src="./assets/fruit-party.jpg" alt="Fruit Party screenshot" height="200" />
     </td>
-    <td valign="top" width="45%">
+    <td valign="top" width="47%">
       <p><strong>Fruit Party</strong></p>
       <p>Slot-style Android game with a complete gameplay loop: reels, configurable bet lines, win calculation, bonus mini-game, user profile, and data sync.</p>
       <p><strong>Highlights:</strong> game state management, configurable rules, local persistence, remote sync, reusable UI components.</p>
