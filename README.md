@@ -4,7 +4,7 @@
 
 Android developer with 4+ years of experience, focused on building and optimizing WebView-based applications for iGaming and affiliate traffic.
 
-I work with Kotlin and modern Android stack, and understand how mobile apps integrate into traffic funnels, attribution, and monetization flows. I actively use AI-assisted development tools (Cursor AI) to speed up development and prototyping.
+I work with Kotlin and modern Android stack and understand how mobile apps integrate into traffic funnels, attribution, and monetization flows. I actively use AI-assisted development tools (Cursor AI) to speed up development and prototyping.
 
 ## Core Focus
 
