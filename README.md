@@ -9,9 +9,8 @@ I work with Kotlin and modern Android stack and understand how mobile apps integ
 ## Core Focus
 
 - WebView-based Android apps for traffic and user acquisition
-- Deep link handling and routing logic
 - Integration with AppsFlyer and Firebase for attribution and analytics
-- Remote config and dynamic content loading
+- Remote config, feature flags, and A/B testing
 - Subscription flows and monetization logic
 - Performance optimization (load time, redirects, UX flow)
 
