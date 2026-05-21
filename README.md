@@ -1,6 +1,6 @@
 # Sergey Kosarevskiy
 
-**Middle Android Developer | Kotlin | Jetpack Compose | Clean Architecture**
+**Android Developer | Kotlin | iGaming | WebView Apps | AppsFlyer | Firebase**
 
 Android-first mobile developer with **3.5+ years of commercial experience** building production apps from scratch: utilities, lifestyle apps, sensor-based tools, and lightweight games. I also have React Native experience with AI-powered subscription apps published on the App Store.
 
