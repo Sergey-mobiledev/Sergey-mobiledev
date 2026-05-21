@@ -27,7 +27,7 @@ I work with Kotlin and modern Android stack and understand how mobile apps integ
 
 **Android:** Kotlin, Jetpack Compose, Android SDK, MVVM, Clean Architecture, Coroutines, Flow, Retrofit, Room
 
-**Traffic & Analytics:** AppsFlyer, Firebase (Analytics, Remote Config)
+**Traffic & Analytics:** Apps with Firebase (Remote Config, Analytics, Cloud Messaging for push notifications and user retention) and AppsFlyer integration
 
 **Tools:** Git, GitHub, Android Studio, Gradle, Cursor AI
 
