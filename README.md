@@ -2,23 +2,32 @@
 
 **Android Developer | Kotlin | iGaming | WebView Apps | AppsFlyer | Firebase**
 
-Android-first mobile developer with **3.5+ years of commercial experience** building production apps from scratch: utilities, lifestyle apps, sensor-based tools, and lightweight games. I also have React Native experience with AI-powered subscription apps published on the App Store.
+Android developer with 4+ years of experience, focused on building and optimizing WebView-based applications for iGaming and affiliate traffic.
 
-My main focus is Android development with Kotlin, Jetpack Compose, MVVM/Clean Architecture, Coroutines/Flow, Room, Firebase, background services, sensors, and polished mobile UX.
+I work with Kotlin and modern Android stack, and understand how mobile apps integrate into traffic funnels, attribution, and monetization flows. I actively use AI-assisted development tools (Cursor AI) to speed up development and prototyping.
+
+## Core Focus
+
+- WebView-based Android apps for traffic and user acquisition
+- Deep link handling and routing logic
+- Integration with AppsFlyer and Firebase for attribution and analytics
+- Remote config and dynamic content loading
+- Subscription flows and monetization logic
+- Performance optimization (load time, redirects, UX flow)
 
 ## What I Build
 
-- Android apps with clear architecture, readable code, and maintainable feature structure
-- Background features: Foreground Services, reboot recovery, notifications, timers, MediaSession
-- Sensor-based apps using accelerometer, microphone, step counter, and device state
-- Game mechanics: reels, betting rounds, collision logic, progression, persistence
-- AI and subscription flows from React Native experience: GPT API, RevenueCat, AppsFlyer, Firebase Remote Config, A/B testing
+- Android apps with WebView architecture and dynamic routing
+- Traffic-oriented apps optimized for conversion and retention
+- Deep link-driven navigation and campaign-based routing
+- Apps with Firebase (Remote Config, Analytics) and AppsFlyer integration
+- Subscription-based applications (RevenueCat / custom flows)
 
 ## Tech Stack
 
-**Android:** Kotlin, Jetpack Compose, Android SDK, MVVM, Clean Architecture, Coroutines, Flow, Room, Retrofit, Firebase, Services, Sensors, MediaSession
+**Android:** Kotlin, Jetpack Compose, Android SDK, MVVM, Clean Architecture, Coroutines, Flow, Retrofit, Room
 
-**React Native:** React Native, TypeScript, GPT API, RevenueCat, AppsFlyer, Firebase Remote Config
+**Traffic & Analytics:** AppsFlyer, Firebase (Analytics, Remote Config)
 
 **Tools:** Git, GitHub, Android Studio, Gradle, Cursor AI
 
